@@ -20,8 +20,8 @@ Servidor Node.js que monitora a cotação USD/BRL em tempo real via [AwesomeAPI]
 ## Instalação
 
 ```bash
-git clone https://github.com/lucasasimeao/projeto_08.git
-cd projeto_08/painel-financeiro
+git clone https://github.com/lucasasimeao/monitor-cambio-telegram.git
+cd monitor-cambio-telegram/painel-financeiro
 npm install
 ```
 

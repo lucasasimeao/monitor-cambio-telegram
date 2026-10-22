@@ -42,8 +42,8 @@ Pré-requisitos:
 - Uma base no [Airtable](https://airtable.com) com uma tabela contendo os campos `Data` (Date), `Moeda` (texto) e `Valor` (número), e um Personal Access Token com os escopos `data.records:read` e `data.records:write`
 
 ```bash
-git clone https://github.com/lucasasimeao/projeto_08.git
-cd projeto_08/painel-financeiro
+git clone https://github.com/lucasasimeao/monitor-cambio-telegram.git
+cd monitor-cambio-telegram/painel-financeiro
 npm install
 cp .env.example .env   # no Windows: copy .env.example .env
 ```
